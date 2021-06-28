@@ -1,0 +1,13 @@
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\bin\Debug\netcoreapp3.1\PoissonEquation.exe
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\bin\Debug\netcoreapp3.1\PoissonEquation.deps.json
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\bin\Debug\netcoreapp3.1\PoissonEquation.runtimeconfig.json
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\bin\Debug\netcoreapp3.1\PoissonEquation.runtimeconfig.dev.json
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\bin\Debug\netcoreapp3.1\PoissonEquation.dll
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\bin\Debug\netcoreapp3.1\PoissonEquation.pdb
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\obj\Debug\netcoreapp3.1\PoissonEquation.csprojAssemblyReference.cache
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\obj\Debug\netcoreapp3.1\PoissonEquation.AssemblyInfoInputs.cache
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\obj\Debug\netcoreapp3.1\PoissonEquation.AssemblyInfo.cs
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\obj\Debug\netcoreapp3.1\PoissonEquation.csproj.CoreCompileInputs.cache
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\obj\Debug\netcoreapp3.1\PoissonEquation.dll
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\obj\Debug\netcoreapp3.1\PoissonEquation.pdb
+C:\anton1\СomputationalPhysics\PoissonEquation\PoissonEquation\obj\Debug\netcoreapp3.1\PoissonEquation.genruntimeconfig.cache
